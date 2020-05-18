@@ -36,6 +36,14 @@ _**Kube-Land Utility Scripts/Tools**_
 
     http://localhost:8761/admin/wallboard/
 
+
+- You can Browse your Auto-generated Rest API Docs on --> 
+
+    http://localhost:8761/kube/customers/info/index.html
+    
+    http://localhost:8761/kube/users/info/index.html
+
+
 - Verify if your Microservices are working in your Local Kubernetes Cluster
     
     - Microservice Endpoint
